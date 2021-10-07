@@ -10,11 +10,11 @@ https://www.mediawiki.org/wiki/REST_API#Terms_and_conditions
 
 RELEVANT API DOCUMENTATION: 
 
-https://www.mediawiki.org/wiki/Wikimedia_REST_API
-https://wikitech.wikimedia.org/wiki/Analytics/AQS/Legacy_Pagecounts
-https://wikimedia.org/api/rest_v1/#/Pagecounts_data_(legacy)/get_metrics_legacy_pagecounts_aggregate_project_access_site_granularity_start_end
-https://wikitech.wikimedia.org/wiki/Analytics/AQS/Pageviews
-https://wikimedia.org/api/rest_v1/#/Pageviews_data/get_metrics_pageviews_aggregate_project_access_agent_granularity_start_end
+1) https://www.mediawiki.org/wiki/Wikimedia_REST_API
+2) https://wikitech.wikimedia.org/wiki/Analytics/AQS/Legacy_Pagecounts
+3) https://wikimedia.org/api/rest_v1/#/Pagecounts_data_(legacy)/get_metrics_legacy_pagecounts_aggregate_project_access_site_granularity_start_end
+4) https://wikitech.wikimedia.org/wiki/Analytics/AQS/Pageviews
+5) https://wikimedia.org/api/rest_v1/#/Pageviews_data/get_metrics_pageviews_aggregate_project_access_agent_granularity_start_end
 
 
 DESCRIPTION OF DATA IN THE FINAL DATAFRAME:
