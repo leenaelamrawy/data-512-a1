@@ -19,21 +19,21 @@ RELEVANT API DOCUMENTATION:
 
 DESCRIPTION OF DATA IN THE FINAL DATAFRAME:
 
-year: the year portion of the timestamp that represents when a user visited the Wikipedia page
+- year: the year portion of the timestamp that represents when a user visited the Wikipedia page
 
-month: the month portion of the timestamp that represents when a user visited the Wikipedia page
+- month: the month portion of the timestamp that represents when a user visited the Wikipedia page
 
-pagecount_all_views: A summation of the views from both mobile pagecounts and desktop pagecounts
+- pagecount_all_views: A summation of the views from both mobile pagecounts and desktop pagecounts
 
-pagecount_desktop_views: The total number of desktop views for pagecounts
+- pagecount_desktop_views: The total number of desktop views for pagecounts
 
-pagecount_mobile_views: The total number of mobile views for pagecounts
+- pagecount_mobile_views: The total number of mobile views for pagecounts
 
-pageview_all_views: summation of the views from both mobile pageviews and desktop pageviews
+- pageview_all_views: summation of the views from both mobile pageviews and desktop pageviews
 
-pageview_desktop_views: The total number of desktop views for pageviews
+- pageview_desktop_views: The total number of desktop views for pageviews
 
-pageview_mobile_views: The total number of mobile views for pageviews
+- pageview_mobile_views: The total number of mobile views for pageviews
 
 
 SPECIAL CONSIDERATIONS WITH DATA: 
